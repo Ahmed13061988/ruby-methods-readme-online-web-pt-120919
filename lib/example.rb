@@ -8,6 +8,6 @@ puts phrase
 puts phrase
 puts phrase
 puts phrase
-puts phrase
+puts phraset
 puts phrase
 puts phrase
